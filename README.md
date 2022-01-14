@@ -1,3 +1,1 @@
-# kotlin-logging-example-maven
-
-An example `maven` project for https://github.com/MicroUtils/kotlin-logging
+[![codecov](https://codecov.io/gh/lakshmi-udaan/test-code-cov/branch/main/graph/badge.svg?token=6vQLBau7Nr)](https://codecov.io/gh/lakshmi-udaan/test-code-cov)
